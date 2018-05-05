@@ -17,7 +17,7 @@
 using namespace std;
 
 
-
+//ola
 
 void INTRO() {
 	ShowWindow(GetConsoleWindow(), SW_MAXIMIZE);
